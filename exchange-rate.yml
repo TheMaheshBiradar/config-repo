@@ -1,0 +1,3 @@
+exchange:
+  rate:
+    poll-interval: 15
